@@ -189,7 +189,7 @@
     <fields>
         <fullName>OldEmail__c</fullName>
         <externalId>false</externalId>
-        <label>OldEmail</label>
+        <label>OldEmails</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
